@@ -10,6 +10,6 @@ for test_case in range(1, T + 1):
             A += B
         else:
             B += A
-        count+=1
+        count += 1
 
     print(count)
